@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Apsara Seuwandi Peiris 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/apsara-s-peiris">
+  <a href="https://github.com/apsaraseuwandi">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=First+Year+Student+at+ICBT+Campus;Passionate+about+coding+and+technology;Always+learning+and+growing" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apsara-s-peiris&theme=radical&row=1&column=7" alt="apsara-s-peiris" />
+  <img src="https://github-profile-trophy.vercel.app/?username=apsaraseuwandi&theme=radical&row=1&column=7" alt="apsara-s-peiris" />
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm a first-year student at **ICBT Campus**, diving deep into the world of compu
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **competitive programming**.
 - 💬 Ask me about **anything related to web development**.
-- 📫 How to reach me: **apsara.peiris.dev@gmail.com**
+- 📫 How to reach me: **apsaraseuwandi01@gmail.com**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to solve puzzles and play chess in my free time.
 
@@ -51,17 +51,17 @@ I'm a first-year student at **ICBT Campus**, diving deep into the world of compu
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/apsara-s-peiris">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=apsara-s-peiris&show_icons=true&theme=radical&rank_icon=github" alt="apsara-s-peiris" />
+  <a href="https://github.com/apsaraseuwandi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=apsaraseuwandi&show_icons=true&theme=radical&rank_icon=github" alt="apsara-s-peiris" />
   </a>
-  <a href="https://github.com/apsara-s-peiris">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apsara-s-peiris&theme=radical" alt="apsara-s-peiris" />
+  <a href="https://github.com/apsaraseuwandi">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apsaraseuwandi&theme=radical" alt="apsara-s-peiris" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/apsara-s-peiris">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsara-s-peiris&layout=compact&theme=radical" />
+  <a href="https://github.com/apsaraseuwandi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsaraseuwandi&layout=compact&theme=radical" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ I'm a first-year student at **ICBT Campus**, diving deep into the world of compu
 ## 🤝 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/apsara-seuwandi-peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apsara-seuwandi-peiris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apsaraseuwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apsara-seuwandi-peiris" height="30" width="40" /></a>
 <a href="https://twitter.com/ApsaraPeiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ApsaraPeiris" height="30" width="40" /></a>
 <a href="https://instagram.com/apsara.s.peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apsara.s.peiris" height="30" width="40" /></a>
 </p>
@@ -78,5 +78,5 @@ I'm a first-year student at **ICBT Campus**, diving deep into the world of compu
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=apsara-s-peiris&label=Profile%20views&color=0e75b6&style=flat" alt="apsara-s-peiris" /> 
+  <img src="https://komarev.com/ghpvc/?username=apsaraseuwandi&label=Profile%20views&color=0e75b6&style=flat" alt="apsaraseuwandi" /> 
 </p>
